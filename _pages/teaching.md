@@ -2,11 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I have TAed
 nav: true
-nav_order: 6
+nav_order: 1
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+For Fall 2024, I am TAing for Data Structures and algorithms (CSE247), Analysis of Algorithms (CSE347), and Intro to Machine Learning (CSE417T).
 
-Organize your courses by years, topics, or universities, however you like!
+Courses TAed previous semesters:
+* Spring 2024: CSE247 Data Structures and Algorithms (Head TA), CSE417T Intro to Machine Learning
+* Fall 2023: CSE247 Data Structures and Algorithms (Head TA)
+* Spring 2023: CSE247 Data Structures and Algorithms (Head TA), CSE417T Intro to Machine Learning
+* Fall 2022: CSE247 Data Structures and Algorithms (Head TA), CSE131 Intro to CS
+* Spring 2022: CSE247 Data Structures and Algorithms, CSE131 Intro to CS
+* Fall 2021: CSE131 Intro to CS
