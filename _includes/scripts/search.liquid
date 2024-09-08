@@ -440,16 +440,6 @@
             },
           },
         {%- endif -%}
-        {%- if site.pinterest_id -%}
-          {
-            id: 'socials-pinterest',
-            title: 'Pinterest',
-            section: 'Socials',
-            handler: () => {
-              window.open("https://www.pinterest.com/{{ site.pinterest_id }}", "_blank");
-            },
-          },
-        {%- endif -%}
         {%- if site.unsplash_id -%}
           {
             id: 'socials-unsplash',

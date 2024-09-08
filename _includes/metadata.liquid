@@ -1,7 +1,7 @@
 {% if site.enable_google_verification or site.enable_bing_verification %}
   <!-- Website verification -->
   {% if site.enable_google_verification %}
-    <meta name="google-site-verification" content="{{ site.google_site_verification }}">
+    <meta name="google-site-verification" content="aUyy_v0sSGVXHSstwNk2CRJ-nOLv7eMsYo_O943Kxv4" />
   {% endif %}
   {% if site.enable_bing_verification %}
     <meta name="msvalidate.01" content="{{ site.bing_site_verification }}">
@@ -186,10 +186,6 @@
   {% endif %}
   {% if site.spotify_id %}
     {% capture link %}https://open.spotify.com/user/{{ site.spotify_id }}{% endcapture %}
-    {% assign sameaslinks = sameaslinks | push: link %}
-  {% endif %}
-  {% if site.pinterest_id %}
-    {% capture link %}https://www.pinterest.com/{{ site.pinterest_id }}{% endcapture %}
     {% assign sameaslinks = sameaslinks | push: link %}
   {% endif %}
   {% if site.unsplash_id %}
