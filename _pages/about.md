@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: I am an undergraduate student at Washington University in St. Louis (WashU) studying Mathematics and Computer Science. I have broad interested in Machine Learning, Computer Vision, Optimization, and Inverse Problems. 
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: I am an undergraduate 
+  more_info:
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
