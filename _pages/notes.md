@@ -22,7 +22,7 @@ Welcome to my collection of class notes. Here you'll find PDF files containing m
 ## Computer Science
 
 - <a href="#" onclick="checkPassword('347')">CSE347 Analysis of Algorithms</a>
-- <a href="#" onclick="checkPassword('db')">CSE417T Machine Learning</a>
+- <a href="#" onclick="checkPassword('417')">CSE417T Machine Learning</a>
 
 *Note: These are my personal notes and may contain errors or omissions. Please use them as a supplement to your own study materials.*
 
