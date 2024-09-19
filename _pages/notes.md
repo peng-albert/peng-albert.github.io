@@ -30,9 +30,9 @@ Welcome to my collection of class notes. Here you'll find PDF files containing m
 function checkPassword(subject) {
   var password = prompt("Please enter the password to access this file:");
   if (subject === '347' && password === "cse347t") {
-    window.location.href = "/assets/pdf/notes/cse347t";
+    window.location.href = "/assets/pdf/notes/cse347t.pdf";
   } else if (subject === '417' && password === "cse417t") {
-    window.location.href = "/assets/pdf/notes/cse417t";
+    window.location.href = "/assets/pdf/notes/cse417t.pdf";
   } else {
     alert("Incorrect password. Please try again.");
   }
