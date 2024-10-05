@@ -21,7 +21,7 @@ on:
       - "!.github/workflows/deploy-image.yml"
       - "!.github/workflows/docker-slim.yml"
       - "!.github/workflows/lighthouse-badger.yml"
-      # - "!.github/workflows/prettier.yml"
+      - "!.github/workflows/prettier.yml"
       - "!lighthouse_results/**"
       - "!CONTRIBUTING.md"
       - "!CUSTOMIZE.md"
@@ -48,7 +48,7 @@ on:
       - "!.github/workflows/deploy-image.yml"
       - "!.github/workflows/docker-slim.yml"
       - "!.github/workflows/lighthouse-badger.yml"
-      # - "!.github/workflows/prettier.yml"
+      - "!.github/workflows/prettier.yml"
       - "!lighthouse_results/**"
       - "!CONTRIBUTING.md"
       - "!CUSTOMIZE.md"
@@ -81,7 +81,7 @@ jobs:
           value: ${{ github.repository }}
       - name: Install and Build 🔧
         run: |
-          pip3 install --upgrade jupyter --break-system-packages
+          pip install --upgrade jupyter
           export JEKYLL_ENV=production
           bundle exec jekyll build
       - name: Purge unused CSS 🧹
