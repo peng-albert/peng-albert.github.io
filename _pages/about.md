@@ -14,7 +14,7 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a senior undergraduate pursuing Computer Science and Mathematics at [Washington University in St. Louis](https://washu.edu) (WashU), interested in computer vision, optimization, and inverse problems. I am fortunate to be working in machine learning problems with [Professor Kamilov](https://ukmlv.github.io) and [Professor Vorobeychik](https://vorobeychik.com).
+I am a senior undergraduate pursuing Computer Science and Mathematics at [Washington University in St. Louis](https://washu.edu) (WashU), with broad research interests in computer vision, optimization, and inverse problems. I am fortunate to be working on machine learning problems with [Professor Kamilov](https://ukmlv.github.io) and [Professor Vorobeychik](https://vorobeychik.com).
 
 
 
