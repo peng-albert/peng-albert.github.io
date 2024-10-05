@@ -14,9 +14,9 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Undergraduate Student & Researcher at Washington University in St. Louis (WashU)
+I am a senior undergraduate pursuing Computer Science and Mathematics at [Washington University in St. Louis](https://washu.edu) (WashU), interested in computer vision, optimization, and inverse problems. I am fortunate to be working in machine learning problems with [Professor Kamilov](https://ukmlv.github.io) and [Professor Vorobeychik](https://vorobeychik.com).
 
-Website under construction.
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
