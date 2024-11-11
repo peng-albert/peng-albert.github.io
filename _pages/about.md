@@ -14,7 +14,7 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a senior undergraduate pursuing Computer Science and Mathematics at [Washington University in St. Louis](https://washu.edu) (WashU), with broad research interests in computer vision, optimization, and inverse problems. I am fortunate to be working on machine learning problems in [Professor Kamilov's](https://ukmlv.github.io) [Computational Imaging Group](https://cigroup.wustl.edu) and [Professor Vorobeychik's](https://vorobeychik.com) CERL Lab.
+Hi there, I am a senior undergraduate pursuing Computer Science and Mathematics at [Washington University in St. Louis](https://washu.edu) (WashU), with broad research interests in computer vision, optimization, and inverse problems. I am fortunate to be working on machine learning problems in [Professor Kamilov's](https://ukmlv.github.io) [Computational Imaging Group](https://cigroup.wustl.edu) and [Professor Vorobeychik's](https://vorobeychik.com) CERL Lab.
 
 
 
