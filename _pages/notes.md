@@ -21,9 +21,9 @@ Welcome to my collection of class notes. Here you'll find PDF files containing m
 
 ## Computer Science
 - [347 Analysis of Algorithms](/assets/pdf/notes/cse347t.pdf)
-- [417T Machine Learning](/assets/pdf/notes/cse417t.pdf)
-<!-- - <a href="#" onclick="checkPassword('347')">CSE347 Analysis of Algorithms</a>
-- <a href="#" onclick="checkPassword('417')">CSE417T Machine Learning</a> -->
+<!-- - [417T Machine Learning](/assets/pdf/notes/cse417t.pdf) -->
+<!-- - <a href="#" onclick="checkPassword('347')">CSE347 Analysis of Algorithms</a> -->
+- <a href="#" onclick="checkPassword('417')">417T Machine Learning</a>
 
 *Note: These are my personal notes and may contain errors or omissions. Please use them as a supplement to your own study materials.*
 
