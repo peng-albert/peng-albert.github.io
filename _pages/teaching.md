@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-For Spring 2025, I will continue to serve as the head TA for Data Structures and Algorithms (CSE247), while TAing Analysis of Algorithms (CSE347). My office hours are every Wednesday from 10AM to 12PM at the Mckelvey 2nd-floor commons. If traffic is not too busy, I'm happy to talk about anything research & more.
+For Spring 2025, I will continue to serve as the head TA for Data Structures and Algorithms (CSE247), while TAing Analysis of Algorithms (CSE347). My office hours are every Wednesday from 10AM to 12PM at the McKelvey 2nd-floor commons. If traffic is not too busy, I'm happy to talk about anything research & more.
 
 Past TA experiences:
 * **Fall 2024**: CSE247 Data Structures (Head TA), CSE417T Intro to Machine Learning, CSE347 Analysis of Algorithms
