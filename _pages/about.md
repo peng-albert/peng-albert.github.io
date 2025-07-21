@@ -14,7 +14,7 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hello! I am Albert, an incoming Ph.D. student at [California Institute of Technology](https://www.caltech.edu) in the Computing and Mathematical Sciences (CMS) department, with broad research interests in machine learning, computer vision, computational imaging, and inverse problems. I earned a B.S. in Computer Science and Mathematics from [Washington University in St. Louis](https://washu.edu) (WashU), where I was fortunate to be working on machine learning problems in [Professor Kamilov's](https://ukmlv.github.io) [Computational Imaging Group](https://cigroup.wustl.edu) and [Professor Vorobeychik's](https://vorobeychik.com) CERL Lab.
+Hello! I am Albert, an incoming Ph.D. student at [California Institute of Technology](https://www.caltech.edu) in the Computing and Mathematical Sciences (CMS) department, with broad research interests in computational imaging, diffusion models, and inverse problems. I earned a B.S. in Computer Science and Mathematics from [Washington University in St. Louis](https://washu.edu) (WashU), where I was fortunate to be working on machine learning problems in [Professor Kamilov's](https://ukmlv.github.io) [Computational Imaging Group](https://cigroup.wustl.edu) and [Professor Vorobeychik's](https://vorobeychik.com) CERL Lab.
 
 
 
