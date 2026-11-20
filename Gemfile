@@ -20,3 +20,6 @@ group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
 end
+# Removed from Ruby's default gems in 3.4+; needed by jekyll / jekyll-scholar.
+gem 'logger'
+gem 'observer'
